@@ -40,6 +40,7 @@ clean_lang()
 echo "lang-clean.sh started" >&2
 
 clean_lang en
+clean_lang et
 clean_lang cz
 clean_lang de
 clean_lang es

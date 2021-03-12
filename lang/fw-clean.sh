@@ -31,6 +31,7 @@ rm_if_exists progmem1.txt
 rm_if_exists textaddr.txt
 rm_if_exists firmware.bin
 rm_if_exists firmware.hex
+rm_if_exists firmware_et.hex
 rm_if_exists firmware_cz.hex
 rm_if_exists firmware_de.hex
 rm_if_exists firmware_es.hex
@@ -40,6 +41,7 @@ rm_if_exists firmware_pl.hex
 rm_if_exists progmem.out
 rm_if_exists textaddr.out
 rm_if_exists update_lang.out
+rm_if_exists update_lang_et.out
 rm_if_exists update_lang_cz.out
 rm_if_exists update_lang_de.out
 rm_if_exists update_lang_es.out

@@ -1,0 +1,1480 @@
+#
+"[%.7s]Live adj. Z\x0avalue set, continue\x0aor start from zero?\x0a%cContinue%cReset"
+"\x00"
+
+#MSG_IR_03_OR_OLDER c=18
+" 0.3 or older"
+" 0.3 v≠i vanem"
+
+# c=18
+"FS v0.3 or older"
+"FS v0.3 v≠i vanem"
+
+#MSG_IR_04_OR_NEWER c=18
+" 0.4 or newer"
+" 0.4 v≠i uuem"
+
+# c=18
+"FS v0.4 or newer"
+"FS v0.4 v≠i uuem"
+
+#MSG_IR_UNKNOWN c=18
+"unknown state"
+"teadmata olek"
+
+#MSG_IMPROVE_BED_OFFSET_AND_SKEW_LINE2 c=14
+" of 4"
+" 4st"
+
+#MSG_MEASURE_BED_REFERENCE_HEIGHT_LINE2 c=14
+" of 9"
+" 9st"
+
+#MSG_MEASURED_OFFSET
+"[0;0] point offset"
+"[0;0] punkti nihe"
+
+#MSG_CRASH_DET_ONLY_IN_NORMAL c=20 r=4
+"Crash detection can\x0abe turned on only in\x0aNormal mode"
+"Kokkup≠rke tuvastus\x0asaab olla sisse lÅlitatud ainult\x0aNormaal reziimis"
+
+#MSG_CRASH_DET_STEALTH_FORCE_OFF c=20 r=4
+"WARNING:\x0aCrash detection\x0adisabled in\x0aStealth mode"
+"HOIATUS:\x0aKokkup≠rke tuvastus\x0avÑlja lÅlitatud\x0ahÑÑletus reziimis"
+
+#
+">Cancel"
+">TÅhista"
+
+#MSG_BABYSTEPPING_Z c=15
+"Adjusting Z:"
+"Seadistan Z:"
+
+#MSG_SELFTEST_CHECK_ALLCORRECT c=20
+"All correct      "
+"K≠ik ≠ige      "
+
+#MSG_WIZARD_DONE c=20 r=8
+"All is done. Happy printing!"
+"K≠ik on valmis. Head printimist!"
+
+#
+"Ambient"
+"ömbritsev"
+
+#MSG_AUTO c=6
+"Auto"
+"\x00"
+
+#MSG_PRESS c=20 r=2
+"and press the knob"
+"ja vajuta nuppu"
+
+#MSG_CONFIRM_CARRIAGE_AT_THE_TOP c=20 r=2
+"Are left and right Z~carriages all up?"
+"Kas vasak ja parem Z-kandur on l≠puni Åleval?"
+
+#MSG_AUTO_DEPLETE c=17 r=1
+"SpoolJoin"
+"\x00"
+
+#MSG_AUTO_HOME
+"Auto home"
+"Algasendisse"
+
+#MSG_AUTOLOAD_FILAMENT c=18
+"AutoLoad filament"
+"Autolae filament"
+
+#MSG_AUTOLOADING_ONLY_IF_FSENS_ON c=20 r=4
+"Autoloading filament available only when filament sensor is turned on..."
+"Filamendi autolaadimine on ainult saadaval kui filamendi andur on sees..."
+
+#MSG_AUTOLOADING_ENABLED c=20 r=4
+"Autoloading filament is active, just press the knob and insert filament..."
+"Filamendi autolaadimine on saadaval, vajuta nuppu ja sisesta filament..."
+
+#MSG_SELFTEST_AXIS_LENGTH
+"Axis length"
+"Telje pikkus"
+
+#MSG_SELFTEST_AXIS
+"Axis"
+"Telg"
+
+#MSG_SELFTEST_BEDHEATER
+"Bed / Heater"
+"Alus / Kuumuti"
+
+#MSG_BED_DONE
+"Bed done"
+"Alus valmis"
+
+#MSG_BED_HEATING
+"Bed Heating"
+"Aluse kuumutamine"
+
+#MSG_BED_CORRECTION_MENU
+"Bed level correct"
+"Aluse k≠rgus paigas"
+
+#MSG_BELTTEST c=17
+"Belt test        "
+"Rihma test        "
+
+#MSG_BED_LEVELING_FAILED_POINT_LOW c=20 r=5
+"Bed leveling failed. Sensor didnt trigger. Debris on nozzle? Waiting for reset."
+"Aluse seadistamine eba≠nnestus. Andur ei tuvastanud. Praht otsal? Ootan taaskÑivitust."
+
+#MSG_BRIGHT c=6
+"Bright"
+"Ere"
+
+#MSG_BRIGHTNESS c=18
+"Brightness"
+"Eredus"
+
+#MSG_BED
+"Bed"
+"Alus"
+
+#MSG_BELT_STATUS c=18
+"Belt status"
+"Rihma staatus"
+
+#MSG_RECOVER_PRINT c=20 r=2
+"Blackout occurred. Recover print?"
+"Voolukatkestus tuvastatud. Taasta print?"
+
+#
+"Calibrating home"
+"Kalibreerin algasendit"
+
+#MSG_CALIBRATE_BED
+"Calibrate XYZ"
+"Kalibreeri XYZ"
+
+#MSG_HOMEYZ
+"Calibrate Z"
+"Kalibreeri Z"
+
+#MSG_CALIBRATE_PINDA c=17 r=1
+"Calibrate"
+"Kalibreeri"
+
+#MSG_MOVE_CARRIAGE_TO_THE_TOP c=20 r=8
+"Calibrating XYZ. Rotate the knob to move the Z carriage up to the end stoppers. Click when done."
+"Kalibreerin XYZ. Pîîra nuppu, et liigutada Z kandur Åles l≠pulÅlititeni. Vajuta kui valmis."
+
+#MSG_CALIBRATE_Z_AUTO c=20 r=2
+"Calibrating Z"
+"Kalibreerin Z"
+
+#MSG_MOVE_CARRIAGE_TO_THE_TOP_Z c=20 r=8
+"Calibrating Z. Rotate the knob to move the Z carriage up to the end stoppers. Click when done."
+"Kalibreerin Z. Pîîra nuppu, et liigutada Z kandur Åles l≠pulÅlititeni. Vajuta kui valmis."
+
+#MSG_HOMEYZ_DONE
+"Calibration done"
+"Kalibreerimine valmis"
+
+#MSG_MENU_CALIBRATION
+"Calibration"
+"Kalibreerimine"
+
+#
+"Cancel"
+"TÅhista"
+
+#MSG_SD_REMOVED
+"Card removed"
+"MÑlukaart eemaldatud"
+
+#
+"Checking file"
+"Kontrollin faili"
+
+#MSG_NOT_COLOR
+"Color not correct"
+"VÑrv pole ≠ige"
+
+#MSG_COOLDOWN
+"Cooldown"
+"Jahtumine"
+
+#
+"Copy selected language?"
+"Kopeeri valitud keel?"
+
+#MSG_CRASHDETECT c=13
+"Crash det."
+"Kokkup≠rke tuvastus."
+
+#
+"Choose a filament for the First Layer Calibration and select it in the on-screen menu."
+"Vali filament esimese kihi kalibreerimiseks ja vali see ekraanil menÅÅst."
+
+#MSG_CRASH_DETECTED c=20 r=1
+"Crash detected."
+"Kokkup≠rge tuvastatud."
+
+#
+"Crash detected. Resume print?"
+"Kokkup≠rge tuvastatud. JÑtka printimist?"
+
+#MSG_CRASH c=7
+"Crash"
+"P≠rge"
+
+#MSG_CURRENT c=19 r=1
+"Current"
+"Praegune"
+
+#MSG_DATE c=17 r=1
+"Date:"
+"KuupÑev:"
+
+#MSG_COMMUNITY_MADE c=18
+"Community made"
+"Kogukonna tehtud"
+
+#MSG_DISABLE_STEPPERS
+"Disable steppers"
+"Seiska stepperid"
+
+#MSG_BABYSTEP_Z_NOT_SET c=20 r=12
+"Distance between tip of the nozzle and the bed surface has not been set yet. Please follow the manual, chapter First steps, section First layer calibration."
+"Kaugus otsiku ja aluspinna vahel pole seadistatud. Palun jÑrgi manuaali peatÅkk First steps sektsioon First layer calibration."
+
+#MSG_FS_CONTINUE c=5
+"Cont."
+"JÑtk."
+
+#MSG_WIZARD_REPEAT_V2_CAL c=20 r=7
+"Do you want to repeat last step to readjust distance between nozzle and heatbed?"
+"Kas te soovite korrata eelmist sammu, et taasseadistada kaugus otsiku ja aluse vahel?"
+
+#MSG_EXTRUDER_CORRECTION c=13
+"E-correct:"
+"E-parandus:"
+
+#MSG_EJECT_FILAMENT c=16
+"Eject filament"
+"VÑljuta filament"
+
+#MSG_EJECTING_FILAMENT c=20 r=1
+"Ejecting filament"
+"VÑljutan filamenti"
+
+#MSG_SELFTEST_ENDSTOP_NOTHIT c=20
+"Endstop not hit"
+"L≠pulÅlitini ei j≠utud"
+
+#MSG_SELFTEST_ENDSTOP
+"Endstop"
+"L≠pulÅliti"
+
+#MSG_SELFTEST_ENDSTOPS
+"Endstops"
+"L≠pulÅlitid"
+
+#MSG_STACK_ERROR c=20 r=4
+"Error - static memory has been overwritten"
+"Error- staatiline mÑlu on Ålekirjutatud"
+
+#MSG_CUT_FILAMENT c=16
+"Cut filament"
+"L≠ika filament"
+
+#MSG_CUTTER c=9
+"Cutter"
+"L≠ikaja"
+
+# c=18
+"Cutting filament"
+"L≠ikan filamenti"
+
+#MSG_FSENS_NOT_RESPONDING c=20 r=4
+"ERROR: Filament sensor is not responding, please check connection."
+"ERROR: Filamendi andur ei vasta. Palun kontrolli Åhendust."
+
+#MSG_DIM c=6
+"Dim"
+"HÑmar"
+
+#MSG_ERROR
+"ERROR:"
+"\x00"
+
+#MSG_SELFTEST_EXTRUDER_FAN_SPEED c=18
+"Extruder fan:"
+"Ekstruuderi puhur:"
+
+#MSG_INFO_EXTRUDER c=18
+"Extruder info"
+"Ekstruuderi info"
+
+#MSG_EXTRUDER c=17
+"Extruder"
+"Ekstruuder"
+
+#
+"Fail stats MMU"
+"Vea andmed MMU"
+
+#MSG_FSENSOR_AUTOLOAD c=13
+"F. autoload"
+"F. autolaadimine"
+
+#
+"Fail stats"
+"Vea andmed"
+
+#MSG_FAN_SPEED c=14
+"Fan speed"
+"Ventilaatori kiirus"
+
+#MSG_SELFTEST_FAN c=20
+"Fan test"
+"Ventilaatori test"
+
+#MSG_FANS_CHECK c=13
+"Fans check"
+"Ventilaatori kontroll"
+
+#MSG_FSENSOR
+"Fil. sensor"
+"\x00"
+
+#MSG_FIL_RUNOUTS c=15
+"Fil. runouts"
+"Fil. otsajooks"
+
+#MSG_FILAMENT_CLEAN c=20 r=2
+"Filament extruding & with correct color?"
+"Filament eraldub ja on ≠iget vÑrvi?"
+
+#MSG_NOT_LOADED c=19
+"Filament not loaded"
+"Filament pole laetud"
+
+#MSG_FILAMENT_SENSOR c=20
+"Filament sensor"
+"Filamendi andur"
+
+#MSG_FILAMENT_USED c=19
+"Filament used"
+"Filamenti kasutatud"
+
+#MSG_PRINT_TIME c=19 r=1
+"Print time"
+"Printimise aeg"
+
+#MSG_FS_ACTION c=10
+"FS Action"
+"FS Tegevus"
+
+#MSG_FILE_INCOMPLETE c=20 r=3
+"File incomplete. Continue anyway?"
+"Fail poolik. JÑtka ikkagi?"
+
+#MSG_FINISHING_MOVEMENTS c=20
+"Finishing movements"
+"L≠pu liigutused"
+
+#MSG_V2_CALIBRATION c=18
+"First layer cal."
+"Esimese kihi kal."
+
+#MSG_WIZARD_SELFTEST c=20 r=8
+"First, I will run the selftest to check most common assembly problems."
+"Esmalt, ma teen enesetesti k≠ige tavalisemate kokkupanemise probleemide tuvastuseks."
+
+#
+"Fix the issue and then press button on MMU unit."
+"Paranda probleem ja vajuta nuppu MMU peal."
+
+#MSG_FLOW
+"Flow"
+"Voolamine"
+
+#MSG_PRUSA3D_FORUM
+"forum.prusa3d.com"
+"\x00"
+
+#MSG_SELFTEST_COOLING_FAN c=20
+"Front print fan?"
+"Eesmine ventilaator?"
+
+#MSG_BED_CORRECTION_FRONT c=14 r=1
+"Front side[um]"
+"Eesmine[um]"
+
+#MSG_SELFTEST_FANS
+"Front/left fans"
+"Eesmine/vasak ventilaator"
+
+#MSG_SELFTEST_HEATERTHERMISTOR
+"Heater/Thermistor"
+"Kuumuti/Termistor"
+
+#MSG_BED_HEATING_SAFETY_DISABLED
+"Heating disabled by safety timer."
+"Kuumutamine vÑlja lÅlitatud ohutus taimeri poolt."
+
+#MSG_HEATING_COMPLETE c=20
+"Heating done."
+"Kuumutamine valmis."
+
+#MSG_HEATING
+"Heating"
+"Kuumutamine"
+
+#MSG_WIZARD_WELCOME c=20 r=7
+"Hi, I am your Original Prusa i3 printer. Would you like me to guide you through the setup process?"
+"Tere, ma olen teie Original Prusa i3 printer. Kas te soovite, et ma juhendaks teid lÑbi algseadistuse?"
+
+#MSG_PRUSA3D_HOWTO
+"howto.prusa3d.com"
+"\x00"
+
+#MSG_FILAMENTCHANGE
+"Change filament"
+"Vaheta filament"
+
+#MSG_CHANGE_SUCCESS
+"Change success!"
+"Vahetus ≠nnestunud!"
+
+#MSG_CORRECTLY c=20
+"Changed correctly?"
+"Vahetatud ≠igesti?"
+
+#MSG_SELFTEST_CHECK_BED c=20
+"Checking bed     "
+"Kontrollin alust     "
+
+#MSG_SELFTEST_CHECK_ENDSTOPS c=20
+"Checking endstops"
+"Kontrollin l≠pulÅliteid"
+
+#MSG_SELFTEST_CHECK_HOTEND c=20
+"Checking hotend  "
+"Kontrollin otsikut  "
+
+#MSG_SELFTEST_CHECK_FSENSOR c=20
+"Checking sensors "
+"Kontrollin andureid "
+
+#MSG_CHECKING_X c=20
+"Checking X axis"
+"Kontrollin X telge"
+
+#MSG_CHECKING_Y c=20
+"Checking Y axis"
+"Kontrollin Y telge"
+
+#MSG_SELFTEST_CHECK_Z c=20
+"Checking Z axis"
+"Kontrollin Z telge"
+
+#MSG_CHOOSE_EXTRUDER c=20 r=1
+"Choose extruder:"
+"Vali ekstruuder:"
+
+#MSG_CHOOSE_FILAMENT c=20 r=1
+"Choose filament:"
+"Vali filament:"
+
+#MSG_FILAMENT c=17 r=1
+"Filament"
+"\x00"
+
+#MSG_WIZARD_XYZ_CAL c=20 r=8
+"I will run xyz calibration now. It will take approx. 12 mins."
+"Kalibreerin xyz telge. See v≠tab umbes 12 minutit."
+
+#MSG_WIZARD_Z_CAL c=20 r=8
+"I will run z calibration now."
+"Z kalibreerimine."
+
+#MSG_WATCH
+"Info screen"
+"Info ekraan"
+
+#MSG_INSERT_FILAMENT c=20
+"Insert filament"
+"Sisesta filament"
+
+#MSG_FILAMENT_LOADED c=20 r=2
+"Is filament loaded?"
+"Kas filament on laetud?"
+
+#MSG_STEEL_SHEET_CHECK c=20 r=2
+"Is steel sheet on heatbed?"
+"Kas plaat on kuumutusalusel?"
+
+#MSG_LAST_PRINT_FAILURES c=20
+"Last print failures"
+"Viimased t≠rked"
+
+#MSG_WIZARD_WELCOME_SHIPPING c=20 r=16
+"Hi, I am your Original Prusa i3 printer. I will guide you through a short setup process, in which the Z-axis will be calibrated. Then, you will be ready to print."
+"Tere, ma olen teie Original Prusa i3 printer. Viin teid lÑbi lÅhikese seadistuse, milles Z-telg kalibreeritakse. Siis olete valmis printima."
+
+#
+"If you have additional steel sheets, calibrate their presets in Settings - HW Setup - Steel sheets."
+"Kui teil on lisa teras plaate, kalibreerige nende seaded Seaded - Riistvara seaded - Terasplaadid."
+
+#MSG_LAST_PRINT c=18
+"Last print"
+"Viimane print"
+
+#MSG_SELFTEST_EXTRUDER_FAN c=20
+"Left hotend fan?"
+"Vasak ventilaator?"
+
+#
+"Left"
+"Vasak"
+
+#MSG_BED_CORRECTION_LEFT c=14 r=1
+"Left side [um]"
+"Vasak kÅlg [um]"
+
+#
+"Lin. correction"
+"Lin. korrektsioon"
+
+#MSG_BABYSTEP_Z
+"Live adjust Z"
+"Z sÑttimine"
+
+# c=20 r=6
+"Insert the filament (do not load it) into the extruder and then press the knob."
+"Sisesta filament (Ñra lae seda) ekstruuderisse ja vajuta nuppu."
+
+#MSG_LOAD_FILAMENT c=17
+"Load filament"
+"Lae filament"
+
+#MSG_LOADING_COLOR
+"Loading color"
+"VÑrvi laadimine"
+
+#MSG_LOADING_FILAMENT c=20
+"Loading filament"
+"Filamendi laadimine"
+
+#MSG_LOOSE_PULLEY c=20 r=1
+"Loose pulley"
+"L≠tv rihm"
+
+#
+"Load to nozzle"
+"Lae otsikusse"
+
+#MSG_M117_V2_CALIBRATION c=25
+"M117 First layer cal."
+"M117 Esimese kihi kal."
+
+#MSG_MAIN
+"Main"
+"PeamenÅÅ"
+
+#MSG_BL_HIGH c=12
+"Level Bright"
+"Tase ere"
+
+#MSG_BL_LOW c=12
+"Level Dimmed"
+"Tase hÑmardatud"
+
+#MSG_MEASURE_BED_REFERENCE_HEIGHT_LINE1 c=60
+"Measuring reference height of calibration point"
+"M≠≠dan kalibreerimispunkti k≠rgust"
+
+#MSG_MESH_BED_LEVELING c=18
+"Mesh Bed Leveling"
+"Mesh aluse seadistus"
+
+#MSG_MMU_OK_RESUMING_POSITION c=20 r=4
+"MMU OK. Resuming position..."
+"MMU OK. Taastan asendist..."
+
+#MSG_MMU_OK_RESUMING_TEMPERATURE c=20 r=4
+"MMU OK. Resuming temperature..."
+"MMU OK. Taastan temeperatuuri..."
+
+#
+"Measured skew"
+"M≠≠detud kalle"
+
+#MSG_MMU_FAILS c=15
+"MMU fails"
+"MMU viga"
+
+#
+"MMU load failed     "
+"MMU laadimine eba≠nnestus "
+
+#MSG_MMU_LOAD_FAILS c=15
+"MMU load fails"
+"MMU laadimine eba≠nnestus"
+
+#MSG_MMU_OK_RESUMING c=20 r=4
+"MMU OK. Resuming..."
+"MMU OK. JÑtkan..."
+
+#MSG_MODE
+"Mode"
+"Reziim"
+
+# c=20 r=3
+"MK3 firmware detected on MK3S printer"
+"MK3 pÅsivara tuvastatud MK3S printeris"
+
+#MSG_NORMAL
+"Normal"
+"Normaal"
+
+#MSG_SILENT
+"Silent"
+"Vaikne"
+
+#
+"MMU needs user attention."
+"MMU vajab kontrollimist."
+
+#
+"MMU power fails"
+"MMU voolu viga"
+
+#MSG_STEALTH
+"Stealth"
+"HÑÑletu"
+
+#MSG_AUTO_POWER
+"Auto power"
+"Auto v≠imsus"
+
+#MSG_HIGH_POWER
+"High power"
+"K≠rge v≠imsus"
+
+#
+"MMU2 connected"
+"MMU2 Åhendatud"
+
+#MSG_SELFTEST_MOTOR
+"Motor"
+"Mootor"
+
+#MSG_MOVE_AXIS
+"Move axis"
+"Liiguta telge"
+
+#MSG_MOVE_X
+"Move X"
+"Liiguta X"
+
+#MSG_MOVE_Y
+"Move Y"
+"Liiguta Y"
+
+#MSG_MOVE_Z
+"Move Z"
+"Liiguta Z"
+
+#MSG_NO_MOVE
+"No move."
+"Liikumine puudub."
+
+#MSG_NO_CARD
+"No SD card"
+"MÑlukaart puudub"
+
+#MSG_NA
+"N/A"
+"\x00"
+
+#MSG_NO
+"No"
+"Ei"
+
+#MSG_SELFTEST_NOTCONNECTED
+"Not connected"
+"Mitte Åhendatud"
+
+#
+"New firmware version available:"
+"Uus pÅsivara versioon saadaval:"
+
+#MSG_SELFTEST_FAN_NO c=19
+"Not spinning"
+"Ei pîîrle"
+
+#MSG_WIZARD_V2_CAL c=20 r=8
+"Now I will calibrate distance between tip of the nozzle and heatbed surface."
+"NÅÅd ma kalibreerin kauguse otsiku ja aluse pinna vahel."
+
+#MSG_WIZARD_WILL_PREHEAT c=20 r=4
+"Now I will preheat nozzle for PLA."
+"NÅÅd ma kuumutan otsiku PLA jaoks."
+
+#MSG_NOZZLE
+"Nozzle"
+"Otsik"
+
+#MSG_DEFAULT_SETTINGS_LOADED c=20 r=5
+"Old settings found. Default PID, Esteps etc. will be set."
+"Vanad seaded leitud. Vaikimisi PID, Esteps jms. seatakse."
+
+#
+"Now remove the test print from steel sheet."
+"Eemalda test print terasplaadilt."
+
+#
+"Nozzle FAN"
+"Otsiku ventilaator"
+
+#MSG_PAUSE_PRINT c=18
+"Pause print"
+"Peata print"
+
+#MSG_PID_RUNNING c=20 r=1
+"PID cal.           "
+"PID kal.           "
+
+#MSG_PID_FINISHED c=20 r=1
+"PID cal. finished"
+"PID kal. l≠petatud"
+
+#MSG_PID_EXTRUDER c=17 r=1
+"PID calibration"
+"PID kalibreerimine"
+
+#MSG_PINDA_PREHEAT c=20 r=1
+"PINDA Heating"
+"PINDA kuumutamine"
+
+#MSG_PAPER c=20 r=10
+"Place a sheet of paper under the nozzle during the calibration of first 4 points. If the nozzle catches the paper, power off the printer immediately."
+"Asetage paberileht otsiku alla esimese 4 punkti kalibreerimisel. Kui otsik t≠mbab paberit kaasa lÅlitage printer koheselt vÑlja."
+
+#MSG_WIZARD_CLEAN_HEATBED c=20 r=8
+"Please clean heatbed and then press the knob."
+"Palun puhastage alus ja vajutage nuppu."
+
+#MSG_CONFIRM_NOZZLE_CLEAN c=20 r=8
+"Please clean the nozzle for calibration. Click when done."
+"Palun puhastage otsik kalibreerimiseks. Vajutage kui valmis."
+
+#MSG_SELFTEST_PLEASECHECK
+"Please check :"
+"Palun kontrollige:"
+
+#MSG_WIZARD_CALIBRATION_FAILED c=20 r=8
+"Please check our handbook and fix the problem. Then resume the Wizard by rebooting the printer."
+"Palun kontrollige manuaali ja lahendage probleem. SeejÑrel taaskÑivitage printer."
+
+#MSG_CHECK_IDLER c=20 r=4
+"Please open idler and remove filament manually."
+"Palun eemaldage filament kÑsitsi."
+
+#MSG_PLACE_STEEL_SHEET c=20 r=4
+"Please place steel sheet on heatbed."
+"Palun asetage terasplaat alusele."
+
+#MSG_PRESS_TO_UNLOAD c=20 r=4
+"Please press the knob to unload filament"
+"Palun vajutage nuppu ja eemaldage filament"
+
+#MSG_PULL_OUT_FILAMENT c=20 r=4
+"Please pull out filament immediately"
+"Palun t≠mmake filament koheselt vÑlja"
+
+#MSG_EJECT_REMOVE c=20 r=4
+"Please remove filament and then press the knob."
+"Palun eemaldage filament ja vajutage nuppu."
+
+#MSG_REMOVE_STEEL_SHEET c=20 r=4
+"Please remove steel sheet from heatbed."
+"Palun eemaldage terasplaat aluselt."
+
+#MSG_RUN_XYZ c=20 r=4
+"Please run XYZ calibration first."
+"Palun tehke enne XYZ kalibreerimine."
+
+#MSG_UPDATE_MMU2_FW c=20 r=4
+"Please update firmware in your MMU2. Waiting for reset."
+"Palun uuendage pÅsivara oma MMU2. Ootan taaskÑivitust."
+
+#MSG_PLEASE_WAIT c=20
+"Please wait"
+"Palun oodake"
+
+#
+"Please remove shipping helpers first."
+"Palun eemaldage pakendamise hoidjad esimesena."
+
+#MSG_PREHEAT_NOZZLE c=20
+"Preheat the nozzle!"
+"Eelkuumutage otsik!"
+
+#MSG_PREHEAT
+"Preheat"
+"Eelkuumutamine"
+
+#MSG_WIZARD_HEATING c=20 r=3
+"Preheating nozzle. Please wait."
+"Eelkuumutan otsikut. Palun oodake."
+
+# c=14
+"PINDA"
+"\x00"
+
+#
+"Please upgrade."
+"Palun uuendage."
+
+#MSG_PRESS_TO_PREHEAT c=20 r=4
+"Press the knob to preheat nozzle and continue."
+"Vajutage nuppu, et eelkuumutada otsikut ja jÑtkake."
+
+#MSG_FS_PAUSE c=5
+"Pause"
+"Paus"
+
+#MSG_POWER_FAILURES c=15
+"Power failures"
+"Voolukatkestus"
+
+#MSG_PRINT_ABORTED c=20
+"Print aborted"
+"Print katkestatud"
+
+# c=20
+"Preheating to load"
+"Eelkuumutan laadimiseks"
+
+# c=20
+"Preheating to unload"
+"Eelkuumutan eemaldamiseks"
+
+#MSG_SELFTEST_PRINT_FAN_SPEED c=18
+"Print fan:"
+"Print ventilaator:"
+
+#MSG_CARD_MENU
+"Print from SD"
+"Prindi mÑlukaardilt"
+
+# c=20
+"Press the knob"
+"Vajutage nuppu"
+
+#MSG_PRINT_PAUSED c=20 r=1
+"Print paused"
+"Print peatatud"
+
+#
+"Press the knob to resume nozzle temperature."
+"Vajutage nuppu, et taastada otsiku temperatuur."
+
+#MSG_FOLLOW_CALIBRATION_FLOW c=20 r=8
+"Printer has not been calibrated yet. Please follow the manual, chapter First steps, section Calibration flow."
+"Printer pole veel kalibreeritud. Palun jÑrgige manuaali, peatÅkk First steps, sektsioon Calibration flow."
+
+#
+"Print FAN"
+"Print ventilaator"
+
+#
+"Please insert filament into the extruder, then press the knob to load it."
+"Palun sisestage filament ekstruuderisse, seejÑrel vajutage nuppu, et see laadida."
+
+#
+"Please insert filament into the first tube of the MMU, then press the knob to load it."
+"Palun sisestage filament MMU esimesse torusse, seejÑrel vajutage nuppu, et see laadida."
+
+#
+"Please load filament first."
+"Palun laadige enne filament."
+
+#MSG_PRUSA3D
+"prusa3d.com"
+"\x00"
+
+#MSG_BED_CORRECTION_REAR c=14 r=1
+"Rear side [um]"
+"Tagumine kÅlg [um]"
+
+# c=20 r=4
+"Please unload the filament first, then repeat this action."
+"Palun eemaldage enne filament, seejÑrel korrake seda tegevust."
+
+# c=20 r=4
+"Please check the IR sensor connection, unload filament if present."
+"Palun kontrollige IR anduri Åhendust, eemaldage filament kui olemas."
+
+#MSG_RECOVERING_PRINT c=20
+"Recovering print    "
+"Taastan printi    "
+
+#MSG_REMOVE_OLD_FILAMENT c=20 r=5
+"Remove old filament and press the knob to start loading new filament."
+"Eemaldage vana filament ja vajutage nuppu, et alustada uue laadimist."
+
+# c=20
+"Prusa i3 MK3S OK."
+"\x00"
+
+#MSG_CALIBRATE_BED_RESET
+"Reset XYZ calibr."
+"LÑhtesta XYZ kalibr."
+
+#MSG_RESET c=14
+"Reset"
+"LÑhtesta"
+
+#MSG_RESUME_PRINT c=18
+"Resume print"
+"JÑtka printimist"
+
+#MSG_RESUMING_PRINT c=20
+"Resuming print"
+"JÑtkan printimist"
+
+#MSG_BED_CORRECTION_RIGHT c=14 r=1
+"Right side[um]"
+"Parem kÅlg [um]"
+
+#MSG_RPI_PORT
+"RPi port"
+"\x00"
+
+#MSG_WIZARD_RERUN c=20 r=7
+"Running Wizard will delete current calibration results and start from the beginning. Continue?"
+"See kustutab praeguse kalibreerimise ja alustab uuesti. JÑtka?"
+
+#MSG_SD_CARD
+"SD card"
+"MÑlukaart"
+
+#MSG_TOSHIBA_FLASH_AIR_COMPATIBILITY
+"FlashAir"
+"\x00"
+
+#
+"Right"
+"Parem"
+
+#MSG_FIND_BED_OFFSET_AND_SKEW_LINE1 c=60
+"Searching bed calibration point"
+"Otsin aluse kalibreerimise punkti"
+
+#MSG_LANGUAGE_SELECT
+"Select language"
+"Valige keel"
+
+#MSG_SELFTEST_OK
+"Self test OK"
+"Enesetest OK"
+
+#MSG_SELFTEST_START c=20
+"Self test start  "
+"Enesetest algus  "
+
+#MSG_SELFTEST
+"Selftest         "
+"Enesetest         "
+
+#MSG_SELFTEST_ERROR
+"Selftest error !"
+"Enesetest error !"
+
+#MSG_SELFTEST_FAILED c=20
+"Selftest failed  "
+"Enesetest eba≠nnestunud "
+
+#MSG_FORCE_SELFTEST c=20 r=8
+"Selftest will be run to calibrate accurate sensorless rehoming."
+"Enesetest viiakse lÑbi tÑpseks anduritevabaks lÑhtestamiseks."
+
+#
+"Select nozzle preheat temperature which matches your material."
+"Valige otsiku eelkuumutus temperatuur, mis sobib teie materjalile."
+
+#MSG_SET_TEMPERATURE c=19 r=1
+"Set temperature:"
+"Seatud temperatuur:"
+
+# c=20
+"Prusa i3 MK2.5 OK."
+"\x00"
+
+# c=20
+"Prusa i3 MK2.5S OK."
+"\x00"
+
+# c=20
+"Prusa i3 MK3 OK."
+"\x00"
+
+#MSG_SETTINGS
+"Settings"
+"Seaded"
+
+#MSG_SHOW_END_STOPS c=18
+"Show end stops"
+"NÑita l≠pulÅliteid"
+
+#
+"Sensor state"
+"Anduri oleks"
+
+#MSG_FILE_CNT c=20 r=6
+"Some files will not be sorted. Max. No. of files in 1 folder for sorting is 100."
+"M≠ned failid ei saa sorteerida. Max kogus 1 kaustas sorteerimiseks on 100."
+
+#MSG_SORT
+"Sort"
+"Sorteeri"
+
+#MSG_NONE
+"None"
+"Mitte Åhtegi"
+
+#MSG_SORT_TIME
+"Time"
+"Aeg"
+
+#
+"Severe skew:"
+"T≠sine kalle:"
+
+#MSG_SORT_ALPHA
+"Alphabet"
+"TÑhestik"
+
+#MSG_SORTING c=20 r=1
+"Sorting files"
+"Sorteerin faile"
+
+#MSG_SOUND_LOUD
+"Loud"
+"Vali"
+
+#
+"Slight skew:"
+"Kerge kalle:"
+
+#MSG_SOUND
+"Sound"
+"Heli"
+
+# c=7
+"Runouts"
+"\x00"
+
+#
+"Some problem encountered, Z-leveling enforced ..."
+"Probleem leitud. Z seadistamine n≠utav."
+
+#MSG_SOUND_ONCE
+"Once"
+"Korra"
+
+#MSG_SPEED
+"Speed"
+"Kiirus"
+
+#MSG_SELFTEST_FAN_YES c=19
+"Spinning"
+"Pîîrleb"
+
+#MSG_TEMP_CAL_WARNING c=20 r=4
+"Stable ambient temperature 21-26C is needed a rigid stand is required."
+"Stabiilne temperatuur 21-26C ja jÑik raam on vajalik."
+
+#MSG_STATISTICS
+"Statistics  "
+"Statistika "
+
+#MSG_STOP_PRINT
+"Stop print"
+"Seiska print"
+
+#MSG_STOPPED
+"STOPPED. "
+"SEISATUD. "
+
+#MSG_SUPPORT
+"Support"
+"Tugi"
+
+#MSG_SELFTEST_SWAPPED
+"Swapped"
+"Vahetatud"
+
+#
+"Select filament:"
+"Vali filament:"
+
+#MSG_TEMP_CALIBRATION c=14
+"Temp. cal."
+"Temp. kal."
+
+#
+"Select temperature which matches your material."
+"Valige temperatuur, mis sobib materjalile."
+
+#MSG_CALIBRATION_PINDA_MENU c=17 r=1
+"Temp. calibration"
+"Temp. kalibreerimine"
+
+#MSG_TEMP_CAL_FAILED c=20 r=8
+"Temperature calibration failed"
+"Temperatuuri kalibreerimine eba≠nnestus"
+
+#MSG_TEMP_CALIBRATION_DONE c=20 r=12
+"Temperature calibration is finished and active. Temp. calibration can be disabled in menu Settings->Temp. cal."
+"Temperatuuri kalibreerimine on l≠petatud ning aktiivne. Temp. kal. saab vÑlja lÅlitada menÅÅs Seaded -> Temp. kal."
+
+# c=20 r=3
+"Sensor verified, remove the filament now."
+"Andur kontrollitud, eemaldage nÅÅd filament."
+
+#MSG_TEMPERATURE
+"Temperature"
+"Temperatuur"
+
+#MSG_MENU_TEMPERATURES c=15 r=1
+"Temperatures"
+"Temperatuurid"
+
+#MSG_FOLLOW_Z_CALIBRATION_FLOW c=20 r=9
+"There is still a need to make Z calibration. Please follow the manual, chapter First steps, section Calibration flow."
+"Z kalibreerimine on vajalik. Palun jÑrgige manuaali peatÅkk First steps, sektsioon Calibration flow."
+
+#
+"Total filament"
+"Kogu filament"
+
+#
+"Total print time"
+"Kogu printimise aeg"
+
+#MSG_TUNE
+"Tune"
+"HÑÑlesta"
+
+#
+"Unload"
+"TÅhjenda"
+
+#MSG_TOTAL_FAILURES c=20
+"Total failures"
+"K≠ik eba≠nnestumised"
+
+# c=20
+"to load filament"
+"laadida filament"
+
+# c=20
+"to unload filament"
+"eemaldada filamenti"
+
+#MSG_UNLOAD_FILAMENT c=17
+"Unload filament"
+"Eemalda filament"
+
+#MSG_UNLOADING_FILAMENT c=20 r=1
+"Unloading filament"
+"Eemaldan filamenti"
+
+#MSG_TOTAL c=6
+"Total"
+"K≠ik"
+
+#MSG_USED c=19 r=1
+"Used during print"
+"Printimisel kasutatud"
+
+#MSG_MENU_VOLTAGES c=15 r=1
+"Voltages"
+"Pinged"
+
+#
+"unknown"
+"teadmata"
+
+#MSG_USERWAIT
+"Wait for user..."
+"Ootan kasutajat..."
+
+#MSG_WAITING_TEMP c=20 r=3
+"Waiting for nozzle and bed cooling"
+"Ootan otsiku ja aluse jahtumist"
+
+#MSG_WAITING_TEMP_PINDA c=20 r=3
+"Waiting for PINDA probe cooling"
+"Ootan PINDA anduri jahtumist"
+
+#
+"Use unload to remove filament 1 if it protrudes outside of the rear MMU tube. Use eject if it is hidden in tube."
+"Kasutage eemaldamist, et eemaldada filament 1 kui see ulatub vÑlja MMU torust. Kasutage vÑljutamist, kui see on toru sees."
+
+#MSG_CHANGED_BOTH c=20 r=4
+"Warning: both printer type and motherboard type changed."
+"Hoiatus: printeri tÅÅp ja emaplaadi tÅÅp muutunud."
+
+#MSG_CHANGED_MOTHERBOARD c=20 r=4
+"Warning: motherboard type changed."
+"Hoiatus: emaplaadi tÅÅp muutunud."
+
+#MSG_CHANGED_PRINTER c=20 r=4
+"Warning: printer type changed."
+"Hoiatus: printeri tÅÅp muutunud."
+
+#MSG_UNLOAD_SUCCESSFUL c=20 r=2
+"Was filament unload successful?"
+"Kas filamendi eemaldamine ≠nnestus?"
+
+#MSG_SELFTEST_WIRINGERROR
+"Wiring error"
+"Juhtmestuse viga"
+
+#MSG_WIZARD c=17 r=1
+"Wizard"
+"Viisard"
+
+#MSG_XYZ_DETAILS c=18
+"XYZ cal. details"
+"XYZ kal. detailid"
+
+#MSG_BED_SKEW_OFFSET_DETECTION_FITTING_FAILED c=20 r=8
+"XYZ calibration failed. Please consult the manual."
+"XYZ kalibreerimine eba≠nnestus. Palun vaadake manuaali."
+
+#MSG_YES
+"Yes"
+"Jah"
+
+#MSG_WIZARD_QUIT c=20 r=8
+"You can always resume the Wizard from Calibration -> Wizard."
+"Viisardit saab jÑtkata menÅÅst Kalibreerimine -> Viisard."
+
+#MSG_BED_SKEW_OFFSET_DETECTION_SKEW_EXTREME c=20 r=8
+"XYZ calibration all right. Skew will be corrected automatically."
+"XYZ kalibreerimine korras. Kalle parandatakse automaatselt."
+
+#MSG_BED_SKEW_OFFSET_DETECTION_SKEW_MILD c=20 r=8
+"XYZ calibration all right. X/Y axes are slightly skewed. Good job!"
+"XYZ kalibreerimine korras. X/Y teljed on veidi kaldus. Hea tîî!"
+
+#MSG_TIMEOUT c=12
+"Timeout"
+"\x00"
+
+#MSG_X_CORRECTION c=13
+"X-correct:"
+"X-parandus:"
+
+#MSG_BED_SKEW_OFFSET_DETECTION_PERFECT c=20 r=8
+"XYZ calibration ok. X/Y axes are perpendicular. Congratulations!"
+"XYZ kalibreerimine korras. X/Y teljed on risti. Palju ≠nne!"
+
+#MSG_BED_SKEW_OFFSET_DETECTION_WARNING_FRONT_BOTH_FAR c=20 r=8
+"XYZ calibration compromised. Front calibration points not reachable."
+"XYZ kalibreerimine ohustatud. Eesmine kalibreerimispunkt pole saadaval."
+
+#MSG_BED_SKEW_OFFSET_DETECTION_WARNING_FRONT_RIGHT_FAR c=20 r=8
+"XYZ calibration compromised. Right front calibration point not reachable."
+"XYZ kalibreerimine ohustatud. Eesmine parem kalibreerimispunkt pole saadaval."
+
+#MSG_LOAD_ALL c=17
+"Load all"
+"Lae k≠ik"
+
+#
+"XYZ calibration failed. Bed calibration point was not found."
+"XYZ kalibreerimine eba≠nnestus. Aluse kalibreerimispunkti ei leitud."
+
+#
+"XYZ calibration failed. Front calibration points not reachable."
+"XYZ kalibreerimine eba≠nnestus. Eesmist kalibreerimispunkti ei leitud."
+
+#
+"XYZ calibration failed. Right front calibration point not reachable."
+"XYZ kalibreerimine eba≠nnestus. Eesmist paremat kalibreerimispunkti ei leitud."
+
+#
+"Y distance from min"
+"Y kaugus miinimumist"
+
+#
+"The printer will start printing a zig-zag line. Rotate the knob until you reach the optimal height. Check the pictures in the handbook (Calibration chapter)."
+"Printer hakkab printima sik-sak joont. Pîîrake nuppu kuni leiate sobiva k≠rguse. Vaatake pilte manuaalist."
+
+# c=20 r=5
+"Verification failed, remove the filament and try again."
+"Kontrollimine eba≠nnestus, eemaldage filament ja proovige uuesti."
+
+#MSG_Y_CORRECTION c=13
+"Y-correct:"
+"Y-parandus:"
+
+#MSG_OFF
+"Off"
+"VÑljas"
+
+#MSG_ON
+"On"
+"Sees"
+
+#
+"Back"
+"Tagasi"
+
+#
+"Checks"
+"Kontrollid"
+
+#
+"False triggering"
+"Vale kÑivitamine"
+
+#
+"FINDA:"
+"\x00"
+
+#MSG_FIRMWARE
+"Firmware"
+"PÅsivara"
+
+#MSG_STRICT
+"Strict"
+"Range"
+
+#MSG_WARN
+"Warn"
+"Hoiata"
+
+#MSG_HW_SETUP c=18
+"HW Setup"
+"Riistvara seaded"
+
+#
+"IR:"
+"\x00"
+
+#MSG_MAGNETS_COMP
+"Magnets comp."
+"Magnetite komp."
+
+#MSG_MESH
+"Mesh"
+"\x00"
+
+#
+"MK3S firmware detected on MK3 printer"
+"MK3S pÅsivara tuvastatud MK3 printeril"
+
+#MSG_MMU_MODE
+"MMU Mode"
+"MMU reziim"
+
+#
+"Mode change in progress ..."
+"Reziimi muudatus..."
+
+#MSG_MODEL
+"Model"
+"Mudel"
+
+#MSG_NOZZLE_DIAMETER
+"Nozzle d."
+"Otsiku diam."
+
+#
+"G-code sliced for a different level. Continue?"
+"G-code l≠igatud teise taseme jaoks. JÑtka?"
+
+#
+"G-code sliced for a different level. Please re-slice the model again. Print cancelled."
+"G-code l≠igatud teise taseme jaoks. Palun l≠igake mudel uuesti. Print tÅhistatud."
+
+#MSG_GCODE_DIFF_PRINTER_CONTINUE c=20 r=5
+"G-code sliced for a different printer type. Continue?"
+"G-code l≠igatud teise printeri tÅÅbi jaoks. JÑtka?"
+
+#MSG_GCODE_DIFF_PRINTER_CANCELLED c=20 r=7
+"G-code sliced for a different printer type. Please re-slice the model again. Print cancelled."
+"G-code l≠igatud teise printeri tÅÅbi jaoks. Palun l≠igake mudel uuesti. Print tÅhistatud."
+
+#
+"G-code sliced for a newer firmware. Continue?"
+"G-code l≠igatud uuemale pÅsivarale. JÑtka?"
+
+#
+"G-code sliced for a newer firmware. Please update the firmware. Print cancelled."
+"G-code l≠igatud uuemale pÅsivarale. Palun uuendage pÅsivara. Print tÅhistatud."
+
+#
+"PINDA:"
+"\x00"
+
+# c=20
+"Preheating to cut"
+"Eelkuumutan l≠ikamiseks"
+
+# c=20
+"Preheating to eject"
+"Eelkuumutan vÑljutamiseks"
+
+#
+"Printer nozzle diameter differs from the G-code. Continue?"
+"Printeri otsiku diameeter erineb G-code'st. JÑtka?"
+
+#
+"Printer nozzle diameter differs from the G-code. Please check the value in settings. Print cancelled."
+"Printeri otsiku diameeter erineb G-code'st. Palun kontrolliga vÑÑrtust seadetest. Print tÅhistatud."
+
+# c=20
+"%s level expected"
+"%s tase oodatud"
+
+#
+"Rename"
+"Nimeta Åmber"
+
+#
+"Select"
+"Vali"
+
+#
+"Sensor info"
+"Anduri info"
+
+#MSG_SHEET c=10
+"Sheet"
+"Plaat"
+
+#MSG_SOUND_BLIND
+"Assist"
+"Abista"
+
+#MSG_STEEL_SHEET c=18
+"Steel sheets"
+"Terasplaadid"
+
+#MSG_Z_CORRECTION c=13
+"Z-correct:"
+"Z-parandus:"
+
+#MSG_Z_PROBE_NR
+"Z-probe nr."
+"Z-anduri nr."
+

@@ -90,6 +90,7 @@ typedef struct
 ///@{
 #define LANG_CODE_XX 0x3f3f //!<'??'
 #define LANG_CODE_EN 0x656e //!<'en'
+#define LANG_CODE_ET 0x6574 //!<'et'
 #define LANG_CODE_CZ 0x6373 //!<'cs'
 #define LANG_CODE_DE 0x6465 //!<'de'
 #define LANG_CODE_ES 0x6573 //!<'es'

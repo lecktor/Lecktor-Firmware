@@ -132,6 +132,11 @@ if [ ! -z "$LNG" ]; then
  echo "OK" >&2
  finish 0
 else
+ if [ -e lang_et.bin ]; then
+  echo -n " Estonian : " >&2
+  ./update_lang.sh et 2>./update_lang_et.out 1>/dev/null
+  if [ $? -eq 0 ]; then echo 'OK' >&2; else echo 'NG!' >&2; finish 1; fi
+ fi
  echo "Updating languages:" >&2
  if [ -e lang_cz.bin ]; then
   echo -n " Czech  : " >&2
@@ -184,6 +189,7 @@ fi
 
 #create binary file with all languages
 rm -f lang.bin
+if [ -e lang_et.bin ]; then cat lang_et.bin >> lang.bin; fi
 if [ -e lang_cz.bin ]; then cat lang_cz.bin >> lang.bin; fi
 if [ -e lang_de.bin ]; then cat lang_de.bin >> lang.bin; fi
 if [ -e lang_es.bin ]; then cat lang_es.bin >> lang.bin; fi

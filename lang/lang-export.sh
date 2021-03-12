@@ -16,6 +16,7 @@ if [ -z "$LNG" ]; then LNG=all; fi
 # if 'all' is selected, script will generate all po files and also pot file
 if [ "$LNG" = "all" ]; then
  ./lang-export.sh en
+ ./lang-export.sh et
  ./lang-export.sh cz
  ./lang-export.sh de
  ./lang-export.sh es

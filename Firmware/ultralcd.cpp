@@ -824,6 +824,7 @@ void lcd_status_screen()                          // NOT static due to using ins
 
 	if (lcd_draw_update)
 	{
+	#ifndef WEH002004_OLED //Refreshing the Status Screen is too noticible on OLED display
 		ReInitLCD++;
 		if (ReInitLCD == 30)
 		{
@@ -835,7 +836,7 @@ void lcd_status_screen()                          // NOT static due to using ins
 			if ((ReInitLCD % 10) == 0)
 				lcd_refresh_noclear(); //to maybe revive the LCD if static electricity killed it.
 		}
-
+	#endif
 		lcdui_print_status_screen();
 
 		if (farm_mode)
@@ -884,9 +885,13 @@ void lcd_status_screen()                          // NOT static due to using ins
 		}
 	}
 
+	/*
 	if (current_click
 		&& ( menu_block_entering_on_serious_errors == SERIOUS_ERR_NONE ) // or a serious error blocks entering the menu
-	)
+	)	
+	*/
+	if (current_click) // or a serious error blocks entering the menu
+
 	{
 		menu_depth = 0; //redundant, as already done in lcd_return_to_status(), just to be sure
 		menu_submenu(lcd_main_menu);
